@@ -8,13 +8,14 @@ Bu projede, temel bir Twitter benzeri uygulama oluşturarak React, API entegrasy
 
 1. En son bölümde verilen Figma tasarımını inceleyin.
 2. Yeni bir React projesi başlatın (vite veya cra kullanabilirsiniz).
-3. Gerekli kütüphaneleri (Axios, React Router vb.) yükleyin.
+3. Gerekli kütüphaneleri (Axios,   React Router vb.) yükleyin.
 4. Projede global state yönetimi için `useContext` veya `Redux` kullanmayı düşünebilirsiniz. Özellikle kullanıcı oturumu veya tweetlerin genel durumu için ideal olabilir.
 
 ### Projeyi Adım Adım Oluşturma:
 
 **1. Kimlik Doğrulama:**
 
+[//]: # ()
 - Kayıt Ol, Giriş Yap ve Çıkış Yap işlevselliği oluşturun.
 - İpucu: Kullanıcı oturumu ve kimlik bilgilerini global bir state'de saklamak için `useContext` veya `Redux` kullanmayı düşünebilirsiniz. ✨
 
